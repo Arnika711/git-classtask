@@ -1,0 +1,5 @@
+GitHub is a platform used to store and manage software projects online.
+It uses Git to track changes and maintain different versions of code.
+It allows multiple developers to collaborate on the same project.
+It provides features like pull requests, issues, and discussions for teamwork.
+It hosts many open source projects that help people learn and contribute to software development.
